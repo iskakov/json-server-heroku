@@ -1,28 +1,40 @@
 {
-  "posts":[
+  "books":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id" : 1,
+      "title": "Война и Мир",
+      "countPages": "304",
+      "imgUrl": "http://google.com",
+      "descUrl": "http://google.com",
+      "author" : "Достоевский"
     },{
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id" : 1,
+      "title": "Война и Мир",
+      "countPages": "304",
+      "imgUrl": "http://google.com",
+      "descUrl": "http://google.com",
+      "author" : "Достоевский"
     },{
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id" : 1,
+      "title": "Война и Мир",
+      "countPages": "304",
+      "imgUrl": "http://google.com",
+      "descUrl": "http://google.com",
+      "author" : "Достоевский"
     },{
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id" : 1,
+      "title": "Война и Мир",
+      "countPages": "304",
+      "imgUrl": "http://google.com",
+      "descUrl": "http://google.com",
+      "author" : "Достоевский"
     }
   ],
-  "comments" : [
+  "speakers" : [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "firstName": "Алексей",
+      "lastName": "Искаков"
     }
   ]
 }
